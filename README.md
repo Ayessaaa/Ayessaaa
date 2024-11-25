@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div>
+    <img alt="Ayessaaa Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ayessaaa&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Ayessaaa GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayessaaa&theme=dracula&hide_border=true">
+</div>
 <!--
 **Ayessaaa/Ayessaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
