@@ -1,6 +1,11 @@
 <div>
-    <img alt="Ayessaaa Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ayessaaa&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+    <img alt="Ayessaaa Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ayessaaa&show_icons=true&theme=dracula&count_private=true&hide_border=false">
 </div>
+
+<div>
+    <img alt="Ayessaaa Hackatime Stats" width="47%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=699&api_domain=hackatime.hackclub.com&theme=dracula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
+</div>
+
 <!--
 **Ayessaaa/Ayessaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
